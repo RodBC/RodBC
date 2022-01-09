@@ -1,15 +1,16 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on CITi-UFPE
-- 🌱 I’m currently learning react-native
+- 🔭 currently working on CITi-UFPE
+- 🌱 learning react-native 📱 
 - 📫 Contact me at: rbc6@cin.ufpe.br
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: I've done my sophomore year in the US, Tx - San Antonio and I'm currently living in another state of Brazil for college 👨‍💻
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I've done my sophomore year in the US, Texas - San Antonio.
+-  Currently living in another state of Brazil - Recife, PE - for college 👨‍💻
 
 <div align="center">
   <a href="https://github.com/RodBC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodBC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodBC&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodBC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodBC&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rod-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,6 +27,5 @@
   <a href = "mailto:rbc6@cin.ufpe.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-castro-536b85209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/RodBC/RodBC/blob/output/github-contribution-grid-snake.svg)
  
 </div>
