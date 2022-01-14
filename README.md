@@ -1,4 +1,4 @@
-### Hi there 👋
+### If you got a good challenge, let me know;
 
 - 🔭 currently working on CITi-UFPE
 - 🌱 learning react-native 📱 
