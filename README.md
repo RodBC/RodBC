@@ -1,6 +1,6 @@
 ### If you got a good challenge, let me know;
 
-- 🔭 currently working on CITi-UFPE
+- 🔭 currently working at CITi-UFPE
 - 🌱 learning react-native 📱 
 - 📫 Contact me at: rbc6@cin.ufpe.br
 - 😄 Pronouns: he/him
