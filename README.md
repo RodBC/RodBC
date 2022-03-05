@@ -1,9 +1,7 @@
 ### If you got a good challenge, let me know;
 
-- 🔭 currently working at CITi-UFPE
-- 🌱 learning react-native 📱 
+- 🔭 currently working at VidyaCode as a MobileDev
 - 📫 Contact me at: rbc6@cin.ufpe.br
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I've done my sophomore year in the US, Texas - San Antonio.
 -  Currently living in another state of Brazil - Recife, PE - for college 👨‍💻
 
