@@ -6,9 +6,7 @@
 -  Currently living in another state of Brazil - Recife, PE - for college 👨‍💻
 
 <div align="center">
-  <a href="https://github.com/RodBC">
    ![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodBC&theme=dracula)
-   
  </div>
   <div<
     <br>
@@ -21,7 +19,7 @@
 </div>
   
   ##
-  [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodBC&theme=dracula)]
+  ![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodBC&theme=dracula)
 
 <div> 
   <a href = "mailto:rbc6@cin.ufpe.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
