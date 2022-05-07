@@ -17,8 +17,8 @@
   
   ##
 
+![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodBC&theme=dracula)
 <div align="center">
-[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodBC&theme=dracula)]
   <a href="https://www.linkedin.com/in/rodrigo-castro-536b85209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
