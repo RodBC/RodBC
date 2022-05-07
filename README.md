@@ -1,7 +1,7 @@
 - 🔭 currently working at VidyaCode as a MobileDev
 - but hey, listen:
 ### If you got a good challenge, let me know;
-![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodBC&theme=dark)
+![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodBC&theme=dracula)
 <div align="center">
   <a href="https://github.com/RodBC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodBC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
