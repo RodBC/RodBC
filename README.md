@@ -2,12 +2,13 @@
 - but hey, listen:
 ### If you got a good challenge, let me know;
 
-![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodBC&theme=github_dark)
+
+[![](https://raw.githubusercontent.com/RodBC/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/RodBC/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/RodBC/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/RodBC/github-profile-summary-cards) [![](https://raw.githubusercontent.com/RodBC/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/RodBC/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/RodBC/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/RodBC/github-profile-summary-cards) [![](https://raw.githubusercontent.com/RodBC/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/RodBC/github-profile-summary-cards)
 
 <div >
   <a href="https://github.com/RodBC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodBC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodBC&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div> 
