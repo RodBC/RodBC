@@ -2,7 +2,7 @@
 - but hey, listen:
 ### If you got a good challenge, let me know;
 
-![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodBC&theme=dracula)
+![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodBC&theme=solarized)
 
 <div >
   <a href="https://github.com/RodBC">
