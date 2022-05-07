@@ -2,11 +2,11 @@
 - but hey, listen:
 ### If you got a good challenge, let me know;
 <div >
-![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodBC&theme=dracula)
+![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodBC&theme=dark)
 
   <a href="https://github.com/RodBC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodBC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodBC&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodBC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodBC&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div> 
