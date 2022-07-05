@@ -1,6 +1,6 @@
 ### If you got a good challenge, let me know;
 
-- 🔭 currently working at VidyaCode as a MobileDev
+- 🔭 currently working at Locus Custom Software as a Web Developer
 - 📫 Contact me at: rbc6@cin.ufpe.br
 - ⚡ Fun fact: I've done my sophomore year in the US, Texas - San Antonio.
 -  Currently living in another state of Brazil - Recife, PE - for college 👨‍💻
