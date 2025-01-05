@@ -1,6 +1,5 @@
 ### If you got a good challenge, let me know;
 
-- 🔭 currently working at Encora Inc. as a Software Developer | BI-analyst
 - 📫 Contact me at: decastro.rbc@gmail.com
 
 <div align="center">
